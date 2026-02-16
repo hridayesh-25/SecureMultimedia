@@ -1,0 +1,13 @@
+# Ignore input multimedia files
+input_files/
+
+# Ignore encrypted outputs
+encrypted_files/
+
+# Ignore decrypted outputs
+decrypted_files/
+
+# .pem
+*.pem
+private_key.pem
+public_key.pem
