@@ -8,6 +8,5 @@ encrypted_files/
 decrypted_files/
 
 # .pem
-*.pem
 private_key.pem
 public_key.pem
