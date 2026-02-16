@@ -10,3 +10,7 @@ decrypted_files/
 # .pem
 private_key.pem
 public_key.pem
+
+#ignore files
+decrypted_fi2mb.jpg
+progress-12thFeb.md
